@@ -1,6 +1,6 @@
 ## Road To An Internship - Grinding Period [3/3]
 
-Hey guys!
+Hey folks!
 
 This is the last part of my "Road to an Internship" series, we'll be continue talking about my Grinding Period and the my discovery of new technologies. If you haven't read the previous parts, be sure to check them out:
 - [Starting Off](https://blog.codechem.com/road-to-an-internship-starting-off-03)
