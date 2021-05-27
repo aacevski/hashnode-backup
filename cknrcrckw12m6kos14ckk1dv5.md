@@ -1,6 +1,6 @@
 ## Road To An Internship - Starting Off [0/3]
 
-Hey guys!
+Hey folks!
 
 In December of 2020, I decided to pursue a career as a web developer - in this series of articles I'll be talking about the steps I took. You don't have to follow these exact steps, however I wanted to write about my experience and on top of that I hope to motivate some of you future developers who are currently trying to forge your own path!
 
